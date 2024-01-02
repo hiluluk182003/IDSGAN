@@ -1,0 +1,12 @@
+env/
+.DS_STORE
+.ipynb_checkpoints/
+*.ipynb
+__pycache__/
+*.pyc
+saved_models/
+runs/
+user_scripts/
+logs/
+results/
+checkpoints/

@@ -1,0 +1,4 @@
+normalize: true
+attack: Probe
+name: probe4
+save_model: ./saved_models/

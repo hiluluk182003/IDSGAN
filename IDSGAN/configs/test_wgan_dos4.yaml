@@ -1,0 +1,4 @@
+normalize: true
+attack: DoS
+name: dos4
+save_model: ./saved_models/

@@ -1,0 +1,8 @@
+algorithm: rf
+max_depth: null
+min_samples_leaf: 1
+min_samples_split: 2
+n_trees: 50
+normalize: true
+save_model: saved_models/random_forest.pkl
+split_criterion: gini
